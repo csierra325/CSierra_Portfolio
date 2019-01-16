@@ -78,6 +78,7 @@ h1 {
     margin-left: 168px;
     width: 1100px;
     background-color: #dddddd;
+    position: absolute;
 }
 
 .containerC {
