@@ -188,7 +188,7 @@ textarea {
 
 
 
-
+/* phones */
 @media only screen and (max-width: 600px) {
     .clearfix::after {
         content: "";
@@ -209,4 +209,15 @@ textarea {
         margin-top: 10px;
         border-radius: 50%;
     }
+
+    .containerb{
+        margin-left:100px;
+        width: 400px;
+    }
+}
+
+/* tablet */
+
+@media only screen and (min-width: 600){
+
 }
