@@ -43,7 +43,7 @@ header {
     float: right;
     font-weight: bold;
     padding: right;
-    margin-left: 80%;
+    margin-left: 40%;
     background-color: #dddddd;
     color: gray; 
     width:500px;
@@ -83,6 +83,7 @@ h1 {
 .containerC {
     position: relative;
     width: 50%;
+    margin-left: -34px;
 }
 
 .containerC:hover .overlay {
