@@ -39,10 +39,10 @@ header {
     height: 100px;
 }
 
-/* .jumbotron{
+.jumbotron{
     text-align: center;
 
-} */
+}
 .nav-item {
     float: right;
     font-weight: bold;
