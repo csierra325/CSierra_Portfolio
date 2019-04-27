@@ -61,7 +61,7 @@ p {
 
 h1 {
     font-weight: bold;
-    font-size: 2em;
+    /* font-size: 2em; */
     border-bottom: 3px solid #777777;
 }
 z
@@ -195,6 +195,10 @@ textarea {
     border-radius: 50%;
 }
 
+.btn-primary{
+background-color: #b48484 !important;
+border-color: #634848 !important;
+}
 
 
 /* phones */
