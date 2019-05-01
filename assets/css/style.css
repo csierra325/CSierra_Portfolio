@@ -58,7 +58,7 @@ h1 {
     /* font-size: 2em; */
     border-bottom: 3px solid #777777;
 }
-z
+
 .container {
     padding: 2em;
     margin-top: 100px;
@@ -66,6 +66,9 @@ z
     width: 50%;
 }
 
+.contactHolder{
+    text-align: center;
+}
 /* Portfolio page */
 
 /* .containerb {
