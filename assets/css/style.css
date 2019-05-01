@@ -41,15 +41,7 @@ header {
     text-align: center;
 
 }
-/* .nav-item {
-    float: right;
-    font-weight: bold;
-    padding: right;   
-     margin-left: 40%;
-    background-color: #b48484;
-    color: gray; 
-    width:500px;
-} */
+
 
 .navbar-light{
     background-color: #b48484 !important;
@@ -76,7 +68,7 @@ z
 
 /* Portfolio page */
 
-.containerb {
+/* .containerb {
     padding: 2em;
     margin-top: 100px;
     margin-bottom: 100px;
@@ -85,7 +77,7 @@ z
     width: 1100px;
     background-color: #dddddd;
     position: absolute;
-}
+} */
 
 .containerC {
     position: relative;
