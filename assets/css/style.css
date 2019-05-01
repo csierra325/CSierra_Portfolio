@@ -41,14 +41,18 @@ header {
     text-align: center;
 
 }
-.nav-item {
+/* .nav-item {
     float: right;
     font-weight: bold;
-    padding: right;
-    margin-left: 40%;
-    background-color: #dddddd;
+    padding: right;   
+     margin-left: 40%;
+    background-color: #b48484;
     color: gray; 
     width:500px;
+} */
+
+.navbar-light{
+    background-color: #b48484 !important;
 }
 
 p {
