@@ -101,7 +101,7 @@ h1 {
 .containerC {
     position: relative;
     width: 50%;
-    margin-left: -34px;
+    margin: 20px 30px 0;
 }
 
 .containerC:hover .overlay {
