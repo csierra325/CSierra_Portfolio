@@ -81,7 +81,13 @@ h1 {
     background-color: #dddddd;
     position: absolute;
 } */
-
+.card{
+    width: 22em !important;
+    text-align: center !important;
+    margin: 6em 32em !important;
+    background-color:#b48484;
+    border: 2px black solid;
+}
 .containerC {
     position: relative;
     width: 50%;
