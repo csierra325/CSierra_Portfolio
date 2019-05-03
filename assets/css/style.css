@@ -81,6 +81,9 @@ h1 {
     background-color: #dddddd;
     position: absolute;
 } */
+.nav-item{
+    font-weight: bold !important;
+}
 .card{
     width: 22em !important;
     text-align: center !important;
