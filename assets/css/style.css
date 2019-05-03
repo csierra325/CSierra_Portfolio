@@ -84,9 +84,16 @@ h1 {
 .card{
     width: 22em !important;
     text-align: center !important;
-    margin: 6em 32em !important;
+    margin: -1em 32em !important;
     background-color:#b48484;
     border: 2px black solid;
+}
+.card-body{
+    font-size: 22px !important;
+}
+.contactHeader{
+    text-align: center;
+    padding: 4rem 2rem;
 }
 .containerC {
     position: relative;
