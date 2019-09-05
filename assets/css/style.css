@@ -62,8 +62,9 @@ h1 {
     font-weight: bold !important;
 }
 .card{
-    width: 22em !important;
+    /* width: 22em !important; */
     text-align: center !important;
+    /* margin: -1em 32em !important; */
     background-color:#b48484;
     border: 2px black solid;
 }
@@ -122,9 +123,9 @@ h1 {
 }
 
 /* contact page */
-.cardContainer{
-    align-content: center;
-}
+/* .cardContainer{
+    align-content: center
+} */
 .contactList {
     margin: 4px;
     font-size: 2em;
