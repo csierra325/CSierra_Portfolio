@@ -8,16 +8,6 @@ body {
     background-size: auto;
 }
 
-.camille {
-    background-color: #dddddd;
-    padding: 0 20px;
-    margin: 6px;
-    float: left;
-    color: gray;
-    font-weight: bold;
-    font-size: 2em;
-}
-
 footer {
     border-top: 4px solid black;
     background-color: #b48484;
@@ -42,7 +32,6 @@ header {
 
 }
 
-
 .navbar-light{
     background-color: #b48484 !important;
 }
@@ -55,7 +44,6 @@ p {
 
 h1 {
     font-weight: bold;
-    /* font-size: 2em; */
     border-bottom: 3px solid #777777;
 }
 
@@ -70,17 +58,6 @@ h1 {
     text-align: center;
 }
 /* Portfolio page */
-
-/* .containerb {
-    padding: 2em;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 100px;
-    margin-left: 168px;
-    width: 1100px;
-    background-color: #dddddd;
-    position: absolute;
-} */
 .nav-item{
     font-weight: bold !important;
 }
@@ -146,35 +123,14 @@ h1 {
 }
 
 /* contact page */
-
+.cardContainer{
+    align-content: center;
+}
 .contactList {
     margin: 4px;
     font-size: 2em;
     font-weight: bold;
     color: grey;
-}
-
-input, textarea {
-    width:439px;
-    height:27px;
-    background:#efefef;
-    border:1px solid #dedede;
-    padding:10px;
-    margin-top:3px;
-    font-size:0.9em;
-    color:#3a3a3a;
-    -moz-border-radius:5px;
-    -webkit-border-radius:5px;
-    border-radius:5px;
-}
-
-label {
-    display:block;
-    margin-top:20px;
-    letter-spacing:2px;
-}
-input:focus, textarea:focus {
-    border:1px solid #97d6eb;
 }
 
 textarea {
@@ -197,19 +153,6 @@ textarea {
 	}
 
 /* Index page */
-.img-circle{
-    width: 30%;
-    height: 8%;
-
-}
-
-.lions {
-    float: left;
-    margin-right: 5%;
-    margin-left: 3%;
-    margin-bottom: 40px;
-    border-radius: 50%;
-}
 
 .btn-primary{
 background-color: #b48484 !important;
@@ -232,14 +175,6 @@ border-color: #634848 !important;
         margin-right: 100px;
         margin-left: 100px;
     }
-    .lions {
-        float: left;
-        margin-right: 10px;
-        margin-top: 10px;
-        border-radius: 50%;
-    }
-
-
 }
 
 /* tablet */
