@@ -61,6 +61,9 @@ h1 {
 .nav-item{
     font-weight: bold !important;
 }
+img.img-circle {
+    width: 25rem;
+}
 .container-fluid{
     width: 15rem !important;
     background-color:#b48484;
@@ -118,10 +121,7 @@ h1 {
     -ms-transform: translate(-50%, -50%);
 }
 
-/* contact page */
-/* .cardContainer{
-    align-content: center
-} */
+
 .contactList {
     margin: 4px;
     font-size: 2em;
