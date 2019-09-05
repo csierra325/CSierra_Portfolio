@@ -61,12 +61,6 @@ h1 {
 .nav-item{
     font-weight: bold !important;
 }
-.card{
-    /* width: 22em !important; */
-    /* text-align: center !important; */
-    /* margin: -1em 32em !important; */
-  
-}
 .container-fluid{
     width: 50% !important;
     background-color:#b48484;
@@ -75,8 +69,6 @@ h1 {
 .card-body{
     font-size: 22px;
     text-align: left;
-    /* margin-left: 90px; */
-    /* margin-top: 20px; */
 }
 .contactHeader{
     text-align: center;
