@@ -63,16 +63,20 @@ h1 {
 }
 .card{
     /* width: 22em !important; */
-    text-align: center !important;
+    /* text-align: center !important; */
     /* margin: -1em 32em !important; */
+  
+}
+.container-fluid{
+    width: 50% !important;
     background-color:#b48484;
     border: 2px black solid;
 }
 .card-body{
-    font-size: 22px !important;
+    font-size: 22px;
     text-align: left;
-    margin-left: 90px;
-    margin-top: 20px;
+    /* margin-left: 90px; */
+    /* margin-top: 20px; */
 }
 .contactHeader{
     text-align: center;
