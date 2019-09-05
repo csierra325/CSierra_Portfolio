@@ -62,7 +62,7 @@ h1 {
     font-weight: bold !important;
 }
 .container-fluid{
-    width: 50% !important;
+    width: 15rem !important;
     background-color:#b48484;
     border: 2px black solid;
 }
