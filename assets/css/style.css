@@ -1,5 +1,4 @@
 /* all page styling */
-
 body {
     margin: 0;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
@@ -7,7 +6,6 @@ body {
     background-color: #e9ecef;
     background-size: auto;
 }
-
 footer {
     border-top: 4px solid black;
     background-color: #b48484;
@@ -17,43 +15,35 @@ footer {
     bottom: 0;
     width: 100%;  
 }
-
 header {
     background-color: grey;
     border-top: 6x solid black;
 }
-
 .jumbotron-fluid {
     height: 100px;
 }
 
 .jumbotron{
     text-align: center;
-
 }
-
 .navbar-light{
     background-color: #b48484 !important;
 }
-
 p {
     line-height: 1.5;
     margin-top: 40px;
     margin-right: 3%;
 }
-
 h1 {
     font-weight: bold;
     border-bottom: 3px solid #777777;
 }
-
 .container {
     padding: 2em;
     margin-top: 100px;
     margin-bottom: 100px;
     width: 50%;
 }
-
 /* contact page */
 .contactList {
     margin: 4px;
@@ -89,21 +79,17 @@ img.img-circle {
     width: 50%;
     margin: auto 0;
 }
-
 .containerC:hover .overlay {
     opacity: 1;
 }
-
 .image {
     display: block;
     width: 400px;
     height: 250px;
 }
-
 .photo {
     padding: 10px;
 }
-
 .overlay {
     position: absolute;
     top: 0;
@@ -116,7 +102,6 @@ img.img-circle {
     transition: .5s ease;
     background-color: #777777;
 }
-
 .text {
     color: white;
     font-size: 20px;
@@ -126,13 +111,11 @@ img.img-circle {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
-
 textarea {
 	height:210px;
 	background:url(images/textarea-bg.jpg) right no-repeat #efefef;
 }
-
-#submit {
+/* #submit {
     width:127px;
     height:38px;
     background:url(images/submit.jpg);
@@ -144,7 +127,7 @@ textarea {
 
 	#submit:hover {
 	    opacity:.9;
-	}
+	} */
 
 /* Index page */
 
@@ -152,22 +135,4 @@ textarea {
 background-color: #b48484 !important;
 border-color: #634848 !important;
 }
-
-
-/* phones */
-/* @media only screen and (max-width: 600px) {
-    .clearfix::after {
-        content: "";
-        display: table;
-        clear: both;
-        padding: auto;
-    }
-    .container {
-        padding: 1em;
-        margin-top: 70px;
-        margin-bottom: 100px;
-        margin-right: 100px;
-        margin-left: 100px;
-    }
-} */
 
