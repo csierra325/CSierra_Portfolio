@@ -54,6 +54,13 @@ h1 {
     width: 50%;
 }
 
+/* contact page */
+.contactList {
+    margin: 4px;
+    font-size: 2em;
+    font-weight: bold;
+    color: grey;
+}
 .contactHolder{
     text-align: center;
 }
@@ -95,7 +102,6 @@ img.img-circle {
 
 .photo {
     padding: 10px;
-    /* margin-left: 10%; */
 }
 
 .overlay {
@@ -119,14 +125,6 @@ img.img-circle {
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-}
-
-
-.contactList {
-    margin: 4px;
-    font-size: 2em;
-    font-weight: bold;
-    color: grey;
 }
 
 textarea {
@@ -157,7 +155,7 @@ border-color: #634848 !important;
 
 
 /* phones */
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
     .clearfix::after {
         content: "";
         display: table;
@@ -171,10 +169,5 @@ border-color: #634848 !important;
         margin-right: 100px;
         margin-left: 100px;
     }
-}
+} */
 
-/* tablet */
-
-@media only screen and (min-width: 600){
-
-}
